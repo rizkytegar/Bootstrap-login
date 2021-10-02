@@ -1,6 +1,6 @@
 # BT LOGIN
 
-### BT LOGIN V 1.0
+### BT LOGIN V 1.2
 
 - https://github.com/rizkytegar/bt-login
 
