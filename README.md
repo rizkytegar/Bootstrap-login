@@ -16,4 +16,4 @@
 
 ### DEMO V 1.0
 
-- demo : https://rizkytegar.github.io/bt-login/
+- demo : https://rizkytegar.github.io/Bootstrap-login/
