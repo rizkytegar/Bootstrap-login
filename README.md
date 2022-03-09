@@ -1,6 +1,6 @@
 # BT LOGIN
 
-[![pages-build-deployment](https://github.com/rizkytegar/Bootstrap-login/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/rizkytegar/Bootstrap-login/actions/workflows/pages/pages-build-deployment)
+[![pages-build-deployment](https://github.com/rizkytegar/Bootstrap-login/actions/workflows/pages/pages-build-deployment/badge.svg?branch=main)](https://github.com/rizkytegar/Bootstrap-login/actions/workflows/pages/pages-build-deployment)
 
 ### BT LOGIN V 1.2
 
