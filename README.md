@@ -2,7 +2,7 @@
 
 [![pages-build-deployment](https://github.com/rizkytegar/Bootstrap-login/actions/workflows/pages/pages-build-deployment/badge.svg?branch=main)](https://github.com/rizkytegar/Bootstrap-login/actions/workflows/pages/pages-build-deployment)
 
-### BT LOGIN V 1.2
+### BT LOGIN V 1.0
 
 - https://github.com/rizkytegar/bt-login
 
