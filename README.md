@@ -17,3 +17,7 @@
 ### DEMO V 1.0
 
 - demo : https://rizkytegar.github.io/Bootstrap-login/
+
+### LICENSE
+
+https://creativecommons.org/publicdomain/zero/1.0/
